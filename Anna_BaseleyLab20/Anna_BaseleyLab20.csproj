@@ -66,6 +66,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\choirAnna.jpg" />
+    <Content Include="images\feltBike.jpg" />
+    <Content Include="images\icons\.DS_Store" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -75,11 +78,32 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="linguistics.html" />
+    <Content Include="home.html" />
+    <Content Include="images\BeerTapwithScott.JPG" />
+    <Content Include="images\Capture.JPG" />
+    <Content Include="images\icons\Facebook Round.png" />
+    <Content Include="images\icons\Google plus round.png" />
+    <Content Include="images\icons\Instagram round.png" />
+    <Content Include="images\icons\Linkedin round.png" />
+    <Content Include="images\icons\Pinterest round.png" />
+    <Content Include="images\icons\Tumblr round.png" />
+    <Content Include="images\icons\Twitter round.png" />
+    <Content Include="images\icons\Youtube round.png" />
+    <Content Include="images\IMG_4304.JPG" />
+    <Content Include="images\myBoys.jpg" />
+    <Content Include="images\PhotowithScott.JPG" />
+    <Content Include="images\ProfilePicture.jpg" />
+    <Content Include="images\SyntaxTree.JPG" />
+    <Content Include="images\WalkingatFountains.JPG" />
+    <Content Include="portfolio.html" />
+    <Content Include="Style\CSS.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
